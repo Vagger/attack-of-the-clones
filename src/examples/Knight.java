@@ -2,12 +2,12 @@ package examples;
 
 import java.util.List;
 
-public class Man {
+public class Knight {
     private String name;
     private int age;
     private List<String> favoriteBooks;
 
-    public Man(String name, int age, List<String> favoriteBooks) {
+    public Knight(String name, int age, List<String> favoriteBooks) {
         this.name = name;
         this.age = age;
         this.favoriteBooks = favoriteBooks;

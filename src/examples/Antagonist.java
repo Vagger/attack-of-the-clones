@@ -1,16 +1,12 @@
 package examples;
 
-public class User {
+public class Antagonist {
 
     private String name;
     private String lastName;
     private int age;
 
-    public User() {
-
-    }
-
-    public User(String name, String lastName, int age) {
+    public Antagonist(String name, String lastName, int age) {
         this.name = name;
         this.lastName = lastName;
         this.age = age;
